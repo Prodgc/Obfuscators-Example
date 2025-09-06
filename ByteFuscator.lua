@@ -1,0 +1,1 @@
+-- This File Was Protected With ByteFuscator V1.2
